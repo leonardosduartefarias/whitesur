@@ -1,0 +1,21 @@
+COMO INSTALAR
+
+A partir das novas versões do GNOME (42+), a instalação não basta apenas colocar o arquivo lá, é preciso:
+
+1 - Descompactar o tar gz (ou se preferir, pesquisar por whiteSur gtk4 theme no github pra download).
+2 - Abrir a pasta.
+3 - instalar o tema com o comando abaixo:
+
+./install.sh -l
+
+4 - Ou se preferir, usar o comando abaixo pra instalar e forçar o tema escuro.
+
+./install.sh -l -c dark
+
+5 - Após instalar, reiniciar computador ou fazer o logoff pra depois inserir o tema nos ajustes.
+
+6 - Caso queira remover utilize o comando abaixo:
+
+./install.sh -r
+
+
